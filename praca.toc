@@ -26,23 +26,45 @@
 \contentsline {subsection}{\numberline {2.5.3}Trzecia postać normalna (3NF)}{16}{subsection.2.5.3}%
 \contentsline {subsection}{\numberline {2.5.4}Podsumowanie}{16}{subsection.2.5.4}%
 \contentsline {chapter}{\numberline {3}Zapytania problemowe i ich realizacja}{17}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Premia dla pracowników za obsłużone wysyłki}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Premia dla pracowników za obsłużone wysyłki (zrealizowane w interfejsie użytkownika)}{17}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Automatyczne oznaczanie przeterminowanych wysyłek}{17}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Wykrywanie braków magazynowych}{18}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Obliczenie stopnia realizacji dostawy}{18}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Obliczenie stopnia realizacji dostawy (zrealizowane w interfejsie użytkownika)}{18}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Najaktywniejsi klienci w danym okresie}{19}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Kontrola pojemności lokalizacji magazynowej}{20}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Aktualizacja stanu magazynu po przyjęciu dostawy}{20}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Ocena produktywności pracowników}{21}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Najczęściej wysyłane produkty}{21}{section.3.9}%
+\contentsline {section}{\numberline {3.8}Ocena produktywności pracowników (zrealizowane w interfejsie użytkownika)}{21}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Najczęściej wysyłane produkty (zrealizowane w interfejsie użytkownika)}{21}{section.3.9}%
 \contentsline {section}{\numberline {3.10}Walidacja poprawności dostawy}{22}{section.3.10}%
-\contentsline {section}{\numberline {3.11}Wymagania CRUD systemu}{22}{section.3.11}%
+\contentsline {section}{\numberline {3.11}Wymagania CRUD systemu}{23}{section.3.11}%
 \contentsline {chapter}{\numberline {4}Przedstawienie powstałej bazy danych i wdrożonych mechanizmów}{25}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Realizacja mechanizmu CRUD}{25}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Operacja Create}{25}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {4.1.2}Operacja Read}{26}{subsection.4.1.2}%
 \contentsline {subsection}{\numberline {4.1.3}Operacja Update}{26}{subsection.4.1.3}%
 \contentsline {subsection}{\numberline {4.1.4}Operacja Delete}{27}{subsection.4.1.4}%
-\contentsline {section}{\textbf {Bibliografia}}{28}{lstnumber.4.4.21}%
-\contentsline {section}{\textbf {Spis rysunków}}{29}{chapter*.2}%
-\contentsline {section}{\textbf {Spis listingów}}{30}{chapter*.2}%
+\contentsline {chapter}{\numberline {5}Koncepcja dostępu zdalnego do bazy danych}{28}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Założenia architektoniczne}{28}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Realizacja połączenia z bazą danych}{28}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Zakres dostępu do aplikacji}{28}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Interfejs użytkownika aplikacji}{29}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Główne okno aplikacji}{29}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Zarządzanie kategoriami produktów}{29}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Zarządzanie klientami}{30}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Zapytanie problemowe – premia pracowników}{30}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Analiza produktywności pracowników}{31}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Zarządzanie pracownikami}{32}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Zarządzanie stanami magazynowymi}{32}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Zarządzanie lokalizacjami magazynowymi}{33}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Najczęściej wysyłane produkty}{34}{section.6.9}%
+\contentsline {section}{\numberline {6.10}Zarządzanie produktami}{34}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Stopień realizacji dostawy}{35}{section.6.11}%
+\contentsline {section}{\numberline {6.12}Wynik obliczenia stopnia realizacji dostawy}{36}{section.6.12}%
+\contentsline {section}{\numberline {6.13}Zarządzanie przyjęciami towaru}{36}{section.6.13}%
+\contentsline {section}{\numberline {6.14}Zarządzanie wysyłkami}{37}{section.6.14}%
+\contentsline {section}{\numberline {6.15}Zarządzanie dostawcami}{37}{section.6.15}%
+\contentsline {chapter}{\numberline {7}Repozytorium projektu (GitHub)}{38}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Dokumentacja projektu (GitHub)}{38}{section.7.1}%
+\contentsline {section}{\textbf {Bibliografia}}{39}{section.7.1}%
+\contentsline {section}{\textbf {Spis rysunków}}{40}{chapter*.17}%
+\contentsline {section}{\textbf {Spis listingów}}{41}{chapter*.17}%

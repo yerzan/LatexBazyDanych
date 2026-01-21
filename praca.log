@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.14)  21 JAN 2026 22:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.14)  22 JAN 2026 00:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -661,7 +661,7 @@ File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
 ) (praca.aux
 Package babel Info: 'polish' activates 'polish' shorthands.
 (babel)             Reported  on input line 8.
- (chapters/1_specyfikacja.aux) (chapters/2_aspekt_projektowy.aux) (chapters/3_funkcjonalnosci.aux) (chapters/4_prezentacja.aux) (chapters/5_koncepcja_dostepu.aux) (chapters/6_realizacja_dostepu.aux) (appendix/statement-A.aux))
+ (chapters/1_specyfikacja.aux) (chapters/2_aspekt_projektowy.aux) (chapters/3_funkcjonalnosci.aux) (chapters/4_prezentacja.aux) (chapters/5_koncepcja_dostepu.aux) (chapters/6_realizacja_dostepu.aux) (chapters/7_repo.aux) (appendix/statement-A.aux))
 \openout1 = `praca.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
@@ -776,7 +776,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 134.
  (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figures/ur.jpg, id=190, 134.00063pt x 134.00063pt>
+<figures/ur.jpg, id=277, 134.00063pt x 134.00063pt>
 File: figures/ur.jpg Graphic file (type jpg)
 <use figures/ur.jpg>
 Package pdftex.def Info: figures/ur.jpg  used on input line 134.
@@ -851,7 +851,7 @@ Rozdzia\l  2.
 [10]
 
 [11]
-<figures/ERD.jpg, id=289, 963.6pt x 682.04813pt>
+<figures/ERD.jpg, id=398, 963.6pt x 682.04813pt>
 File: figures/ERD.jpg Graphic file (type jpg)
 <use figures/ERD.jpg>
 Package pdftex.def Info: figures/ERD.jpg  used on input line 155.
@@ -897,9 +897,9 @@ Rozdzia\l  3.
 
 [21]
 
-[22])
+[22]
 
-[23]
+[23])
 
 [24]
 \openout2 = `chapters/4_prezentacja.aux'.
@@ -920,13 +920,8 @@ Rozdzia\l  4.
 [27]
 \openout2 = `chapters/5_koncepcja_dostepu.aux'.
 
- (chapters/5_koncepcja_dostepu.tex)
-\openout2 = `chapters/6_realizacja_dostepu.aux'.
-
- (chapters/6_realizacja_dostepu.tex) (praca.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
+ (chapters/5_koncepcja_dostepu.tex
+Rozdzia\l  5.
 )
 
 [28
@@ -934,8 +929,150 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 
 
+]
+\openout2 = `chapters/6_realizacja_dostepu.aux'.
+
+ (chapters/6_realizacja_dostepu.tex
+Rozdzia\l  6.
+<figures/mainwindow.png, id=891, 1925.69438pt x 1047.16219pt>
+File: figures/mainwindow.png Graphic file (type png)
+<use figures/mainwindow.png>
+Package pdftex.def Info: figures/mainwindow.png  used on input line 18.
+(pdftex.def)             Requested size: 426.79135pt x 232.0701pt.
+<figures/categories.jpg, id=893, 963.6pt x 540.51938pt>
+File: figures/categories.jpg Graphic file (type jpg)
+<use figures/categories.jpg>
+Package pdftex.def Info: figures/categories.jpg  used on input line 32.
+(pdftex.def)             Requested size: 341.43437pt x 191.51869pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+
+[29
+
+
+
+
+ <./figures/mainwindow.png>]
+<figures/clients.jpg, id=900, 963.6pt x 543.53062pt>
+File: figures/clients.jpg Graphic file (type jpg)
+<use figures/clients.jpg>
+Package pdftex.def Info: figures/clients.jpg  used on input line 46.
+(pdftex.def)             Requested size: 426.79135pt x 240.72998pt.
+<figures/bonus_window_problemquestion.jpg, id=901, 860.46469pt x 486.31688pt>
+File: figures/bonus_window_problemquestion.jpg Graphic file (type jpg)
+<use figures/bonus_window_problemquestion.jpg>
+Package pdftex.def Info: figures/bonus_window_problemquestion.jpg  used on input line 61.
+(pdftex.def)             Requested size: 426.79135pt x 241.21364pt.
+
+
+[30 <./figures/categories.jpg> <./figures/clients.jpg>]
+<figures/employeeproductivity_problemquestion.jpg, id=909, 869.49844pt x 487.8225pt>
+File: figures/employeeproductivity_problemquestion.jpg Graphic file (type jpg)
+<use figures/employeeproductivity_problemquestion.jpg>
+Package pdftex.def Info: figures/employeeproductivity_problemquestion.jpg  used on input line 80.
+(pdftex.def)             Requested size: 426.79135pt x 239.45195pt.
+
+Underfull \vbox (badness 2626) has occurred while \output is active []
+
+
+
+[31 <./figures/bonus_window_problemquestion.jpg> <./figures/employeeproductivity_problemquestion.jpg>]
+<figures/employees.jpg, id=917, 963.6pt x 548.0475pt>
+File: figures/employees.jpg Graphic file (type jpg)
+<use figures/employees.jpg>
+Package pdftex.def Info: figures/employees.jpg  used on input line 98.
+(pdftex.def)             Requested size: 426.79135pt x 242.73051pt.
+<figures/inventory.jpg, id=918, 963.6pt x 542.77782pt>
+File: figures/inventory.jpg Graphic file (type jpg)
+<use figures/inventory.jpg>
+Package pdftex.def Info: figures/inventory.jpg  used on input line 112.
+(pdftex.def)             Requested size: 426.79135pt x 240.39658pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[32 <./figures/employees.jpg>]
+<figures/locations.jpg, id=924, 963.6pt x 544.28343pt>
+File: figures/locations.jpg Graphic file (type jpg)
+<use figures/locations.jpg>
+Package pdftex.def Info: figures/locations.jpg  used on input line 127.
+(pdftex.def)             Requested size: 426.79135pt x 241.06342pt.
+<figures/mostshipped_problemquestion.jpg, id=925, 858.95906pt x 486.31688pt>
+File: figures/mostshipped_problemquestion.jpg Graphic file (type jpg)
+<use figures/mostshipped_problemquestion.jpg>
+Package pdftex.def Info: figures/mostshipped_problemquestion.jpg  used on input line 141.
+(pdftex.def)             Requested size: 426.79135pt x 241.63661pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[33 <./figures/inventory.jpg> <./figures/locations.jpg>]
+<figures/products.jpg, id=933, 963.6pt x 548.80031pt>
+File: figures/products.jpg Graphic file (type jpg)
+<use figures/products.jpg>
+Package pdftex.def Info: figures/products.jpg  used on input line 156.
+(pdftex.def)             Requested size: 426.79135pt x 243.06393pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[34 <./figures/mostshipped_problemquestion.jpg>]
+<figures/receipt_problemquestion.jpg, id=939, 715.17188pt x 409.53pt>
+File: figures/receipt_problemquestion.jpg Graphic file (type jpg)
+<use figures/receipt_problemquestion.jpg>
+Package pdftex.def Info: figures/receipt_problemquestion.jpg  used on input line 170.
+(pdftex.def)             Requested size: 426.79135pt x 244.39511pt.
+<figures/receipt_problemquestion_result.jpg, id=940, 714.41907pt x 405.01312pt>
+File: figures/receipt_problemquestion_result.jpg Graphic file (type jpg)
+<use figures/receipt_problemquestion_result.jpg>
+Package pdftex.def Info: figures/receipt_problemquestion_result.jpg  used on input line 183.
+(pdftex.def)             Requested size: 426.79135pt x 241.95296pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[35 <./figures/products.jpg> <./figures/receipt_problemquestion.jpg>]
+<figures/receipts.jpg, id=947, 963.6pt x 514.92375pt>
+File: figures/receipts.jpg Graphic file (type jpg)
+<use figures/receipts.jpg>
+Package pdftex.def Info: figures/receipts.jpg  used on input line 198.
+(pdftex.def)             Requested size: 426.79135pt x 228.06pt.
+<figures/shipments.jpg, id=948, 963.6pt x 509.65407pt>
+File: figures/shipments.jpg Graphic file (type jpg)
+<use figures/shipments.jpg>
+Package pdftex.def Info: figures/shipments.jpg  used on input line 212.
+(pdftex.def)             Requested size: 426.79135pt x 225.72604pt.
+
+
+[36 <./figures/receipt_problemquestion_result.jpg> <./figures/receipts.jpg>]
+<figures/supplier.jpg, id=955, 963.6pt x 542.77782pt>
+File: figures/supplier.jpg Graphic file (type jpg)
+<use figures/supplier.jpg>
+Package pdftex.def Info: figures/supplier.jpg  used on input line 226.
+(pdftex.def)             Requested size: 426.79135pt x 240.39658pt.
+)
+
+[37 <./figures/shipments.jpg> <./figures/supplier.jpg>]
+\openout2 = `chapters/7_repo.aux'.
+
+ (chapters/7_repo.tex
+Rozdzia\l  7.
+)
+
+[38
+
+
+
+
+] (praca.bbl)
+
+[39
 
 
 
@@ -945,7 +1082,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 
 
-[29
+[40
 
 ] (praca.lol)
 \tf@lol=\write6
@@ -953,7 +1090,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 
 
-[30
+[41
 
 
 ]
@@ -964,26 +1101,26 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 Package caption Warning: Unused \captionsetup[sub] on input line 23.
 See the caption package documentation for explanation.
 
-(praca.aux (chapters/1_specyfikacja.aux) (chapters/2_aspekt_projektowy.aux) (chapters/3_funkcjonalnosci.aux) (chapters/4_prezentacja.aux) (chapters/5_koncepcja_dostepu.aux) (chapters/6_realizacja_dostepu.aux) (appendix/statement-A.aux))
+(praca.aux (chapters/1_specyfikacja.aux) (chapters/2_aspekt_projektowy.aux) (chapters/3_funkcjonalnosci.aux) (chapters/4_prezentacja.aux) (chapters/5_koncepcja_dostepu.aux) (chapters/6_realizacja_dostepu.aux) (chapters/7_repo.aux) (appendix/statement-A.aux))
  ***********
 LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
  ***********
 Package rerunfilecheck Info: File `praca.out' has not changed.
-(rerunfilecheck)             Checksum: 9DC6FEFEED8ECF012076A7D42E967E85;8922.
+(rerunfilecheck)             Checksum: 59AFBAC2DF11E920F8C9C55D9696E110;14537.
  ) 
 Here is how much of TeX's memory you used:
- 24966 strings out of 468225
- 471631 string characters out of 5432973
- 1059595 words of memory out of 5000000
- 52567 multiletter control sequences out of 15000+600000
+ 25188 strings out of 468225
+ 477333 string characters out of 5432973
+ 1061261 words of memory out of 5000000
+ 52732 multiletter control sequences out of 15000+600000
  692659 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,13n,94p,599b,2688s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,13n,94p,622b,2688s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on praca.pdf (28 pages, 381981 bytes).
+Output written on praca.pdf (39 pages, 1513982 bytes).
 PDF statistics:
- 963 PDF objects out of 1000 (max. 8388607)
- 499 named destinations out of 1000 (max. 500000)
- 387 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1187 PDF objects out of 1200 (max. 8388607)
+ 549 named destinations out of 1000 (max. 500000)
+ 638 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -17,7 +17,7 @@
 \contentsline {lstlisting}{\numberline {3.6}{\ignorespaces Funkcja kontrolująca pojemność lokalizacji}}{20}{lstlisting.3.6}%
 \contentsline {lstlisting}{\numberline {3.7}{\ignorespaces Procedura aktualizująca stany magazynowe po przyjęciu}}{20}{lstlisting.3.7}%
 \contentsline {lstlisting}{\numberline {3.8}{\ignorespaces Funkcja oceniająca produktywność pracowników}}{21}{lstlisting.3.8}%
-\contentsline {lstlisting}{\numberline {3.9}{\ignorespaces Funkcja identyfikująca najczęściej wysyłane produkty}}{21}{lstlisting.3.9}%
+\contentsline {lstlisting}{\numberline {3.9}{\ignorespaces Funkcja identyfikująca najczęściej wysyłane produkty}}{22}{lstlisting.3.9}%
 \contentsline {lstlisting}{\numberline {3.10}{\ignorespaces Funkcja walidująca poprawność dostawy}}{22}{lstlisting.3.10}%
 \contentsline {lstlisting}{\numberline {4.1}{\ignorespaces Procedura dodawania klienta}}{25}{lstlisting.4.1}%
 \contentsline {lstlisting}{\numberline {4.2}{\ignorespaces Funkcja odczytu danych klienta}}{26}{lstlisting.4.2}%

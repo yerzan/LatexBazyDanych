@@ -48,7 +48,7 @@ wykonywanych na relacyjnej bazie danych.
 Do realizacji projektu wykorzystano następujące technologie oraz narzędzia:
 \begin{itemize}
     \item \textbf{PostgreSQL} – relacyjny system zarządzania bazą danych,
-    \item \textbf{pgAdmin} – narzędzie administracyjne do zarządzania bazą danych,
+    \item \textbf{pgAdmin4} – narzędzie administracyjne do zarządzania bazą danych,
     \item \textbf{SQL} – język zapytań do definiowania struktury bazy danych
     oraz operacji na danych,
     \item \textbf{JetBrains IntelliJ IDEA} – środowisko programistyczne
@@ -56,6 +56,7 @@ Do realizacji projektu wykorzystano następujące technologie oraz narzędzia:
     graficznego użytkownika (GUI),
     \item \textbf{Visual Studio Code} – środowisko używane do tworzenia
     dokumentacji projektu w systemie \LaTeX.
+    \item \textbf{JDBC} – interfejs komunikacji aplikacji Java z bazą danych,
 \end{itemize}
 
 
@@ -76,17 +77,17 @@ zgodnie z poniższymi krokami:
 
     \item \textbf{Przygotowanie relacyjnej bazy danych (PostgreSQL):}
     \begin{itemize}
-        \item Uruchom narzędzie pgAdmin i utwórz nową, pustą bazę danych o nazwie SystemZarzadzaniaMagazynem.
+        \item Uruchom narzędzie pgAdmin4 i utwórz nową, pustą bazę danych o nazwie SystemZarzadzaniaMagazynem.
         \item Kliknij prawym przyciskiem myszy na utworzoną bazę danych i wybierz
-        opcję \textit{Query Tool}. wklej zawartość pliku "BD\_file.sql" i wykonad kod (F5).
-        \item Wklej zawartość pliku SQL zawierającego definicje tabel, relacji
-        oraz ograniczeń integralności i wykonaj kod (klawisz \textit{F5}).
+        opcję \textit{Restore}. w pole Filename wklej plik "BD\_file.sql" i zatem nacisnij na przycisk \textit{Restore}.
+        \item Kliknij prawym przyciskiem myszy na utworzoną bazę danych i wybierz
+        opcję \textit{Refresh}.
     \end{itemize}
 
     \item \textbf{Konfiguracja połączenia z bazą danych:}
     \begin{itemize}
         \item Otwórz projekt aplikacji w środowisku JetBrains IntelliJ IDEA.
-        \item Skonfiguruj parametry połączenia z bazą danych, takie jak:
+        \item Skonfiguruj parametry połączenia z bazą danych w pliku "DataBaseConnection", takie jak:
         nazwa bazy danych, użytkownik oraz hasło.
         \item Upewnij się, że aplikacja posiada poprawny dostęp do serwera
         PostgreSQL.
@@ -95,7 +96,7 @@ zgodnie z poniższymi krokami:
     \item \textbf{Uruchomienie aplikacji:}
     \begin{itemize}
         \item Upewnij się, że serwer bazy danych PostgreSQL jest uruchomiony.
-        \item Uruchom aplikację z poziomu środowiska JetBrains IntelliJ IDEA.
+        \item Uruchom aplikację z poziomu środowiska JetBrains IntelliJ IDEA. Uruchomić plik Main.
         \item Po uruchomieniu aplikacji możliwa jest interakcja z systemem
         poprzez interfejs graficzny użytkownika (GUI).
     \end{itemize}
